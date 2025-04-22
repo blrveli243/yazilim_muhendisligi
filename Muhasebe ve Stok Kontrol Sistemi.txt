@@ -1,0 +1,38 @@
+Muhasebe ve Stok Kontrol Sistemi (MSKS)
+
+Anasayfa
+Depo Stok Islemleri
+Depo stok islemleri bolumunde mevcut malzemelerin;
+I. Malzeme Adi
+II. Mevcut Adedi
+III. Birimi
+IV. Birim Fiyati
+V. Toplam Tutari
+VI. Son Kullanma Tarihi
+gibi tum ozelliklerini goruntuleyebilirsiniz.
+
+Malzeme Girisi
+Depoya gelen malzemelerin sisteme kaydedildigi bolumdur. Giris esnasinda, malzemenin tum ozelliklerinin yani sira geldigi firmanin bilgileri de girilmelidir..
+
+Malzeme Cikisi
+Kayitli birimlerin kullanimina verilen malzemelerin sistemden dusulmesini saglayan bolumdur.
+I. Kayitli malzeme secilir
+II. Cikacak adet belirtilir
+III. Ilgili birim sorumlusu secilir
+Ardindan cikis islemi tamamlanir.
+
+Tanimlama Islemleri
+Sistemi kullanmadan once bazi nesnelerin onceden tanimlanmasi gereklidir:
+
+Depo Tanimlama
+Depoda birden fazla malzeme turu bulunabilir. Bu bolumden sinirsiz sayida depo tanimlayabilirsiniz.
+
+Birim Tanimlama
+Malzeme cikisi yapilacak birimlerin tanimlandigi bolumdur.
+
+Personel Tanimlama
+Malzeme cikisi yapilacak kisi (birim sorumlusu) bu bolumden tanimlanir.
+
+Firma Tanimlama
+Malzemenin temin edildigi firmalarin onceden tanimlanmasi, veri girisini kolaylastirir.
+
